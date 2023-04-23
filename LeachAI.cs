@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+// defunct enemy, will work on it later, for now it sees through walls, cannot be killed, cannot be evaded, truly god hates this creature, but they hate us more.
 public class LeachAI : MonoBehaviour
 {
     public int health = 100;
